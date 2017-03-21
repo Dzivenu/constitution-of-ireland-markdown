@@ -1044,6 +1044,17 @@ Article 29
         purpose by the members of any group or league of nations with
         which the State is or becomes associated for the purpose of
         international co-operation in matters of common concern.\
+    3.  The State may become a member of the European Coal and Steel
+        Community (established by Treaty signed at Paris on the 18th day
+        of April, 1951), the European Economic Community (established by
+        Treaty signed at Rome on the 25th day of March, 1957) and the
+        European Atomic Energy Community (established by Treaty signed
+        at Rome on the 25th day of March, 1957). No provision of this
+        Constitution invalidates laws enacted, acts done or measures
+        adopted by the State necessitated by the obligations of
+        membership of the Communities or prevents laws enacted, acts
+        done or measures adopted by the Communities, or institutions
+        thereof, from having the force of law in the State.\
 
 5.  1.  Every international agreement to which the State becomes a party
         shall be laid before Dáil Éireann.\
