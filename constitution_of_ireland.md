@@ -1415,6 +1415,8 @@ Article 40
         with due regard to the equal right to life of the mother,
         guarantees in its laws to respect, and, as far as practicable,
         by its laws to defend and vindicate that right.\
+        This subsection shall not limit freedom to travel between the
+        State and another state.\
 
 4.  1.  No citizen shall be deprived of his personal liberty save in
         accordance with law.\
