@@ -30,16 +30,28 @@ relations with other nations, and to develop its life, political,
 economic and cultural, in accordance with its own genius and traditions.
 
 Article 2\
- The national territory consists of the whole island of Ireland, its
-islands and the territorial seas.
+ It is the entitlement and birthright of every person born in the island
+of Ireland, which includes its islands and seas, to be part of the Irish
+nation. That is also the entitlement of all persons otherwise qualified
+in accordance with law to be citizens of Ireland. Furthermore, the Irish
+nation cherishes its special affinity with people of Irish ancestry
+living abroad who share its cultural identity and heritage.
 
 Article 3\
- Pending the re-integration of the national territory, and without
-prejudice to the right of the Parliament and Government established by
-this Constitution to exercise jurisdiction over the whole of that
-territory, the laws enacted by that Parliament shall have the like area
-and extent of application as the laws of Saorstát Éireann and the like
-extra-territorial effect.
+1.  It is the firm will of the Irish nation, in harmony and friendship,
+    to unite all the people who share the territory of the island of
+    Ireland, in all the diversity of their identities and traditions,
+    recognising that a united Ireland shall be brought about only by
+    peaceful means with the consent of a majority of the people,
+    democratically expressed, in both jurisdictions in the island. Until
+    then, the laws enacted by the Parliament established by this
+    Constitution shall have the like area and extent of application as
+    the laws enacted by the Parliament that existed immediately before
+    the coming into operation of this Constitution.\
+2.  Institutions with executive powers and functions that are shared
+    between those jurisdictions may be established by their respective
+    responsible authorities for stated purposes and may exercise powers
+    and functions in respect of all or any part of the island.
 
 ### THE STATE
 
@@ -1130,7 +1142,7 @@ Article 29
         disputes or controversies may be in addition to or in
         substitution for any like power or function conferred by this
         Constitution on any such person or organ of State as aforesaid.\
-    3.  If the Government declare that the State has become obliged,
+    3.  ~~If the Government declare that the State has become obliged,
         pursuant to the Agreement, to give effect to the amendment of
         this Constitution referred to therein, then, notwithstanding
         Article 46 hereof, this Constitution shall be amended as
@@ -1222,7 +1234,10 @@ Article 29
         this section being added to this Constitution or such
         longer period as may be provided for by law, this section
         shall cease to have effect and shall be omitted from every
-        official text of this Constitution published thereafter.\
+        official text of this Constitution published thereafter.~~\
+8.  The State may exercise extra-territorial jurisdiction in
+    accordance with the generally recognised principles of
+    international law.
 
 ### THE ATTORNEY GENERAL
 
