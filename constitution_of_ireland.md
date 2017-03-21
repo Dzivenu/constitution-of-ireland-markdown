@@ -1066,12 +1066,15 @@ Article 29
         of April, 1951), the European Economic Community (established by
         Treaty signed at Rome on the 25th day of March, 1957) and the
         European Atomic Energy Community (established by Treaty signed
-        at Rome on the 25th day of March, 1957). No provision of this
-        Constitution invalidates laws enacted, acts done or measures
-        adopted by the State necessitated by the obligations of
-        membership of the Communities or prevents laws enacted, acts
-        done or measures adopted by the Communities, or institutions
-        thereof, from having the force of law in the State.\
+        at Rome on the 25th day of March, 1957). The State may ratify
+        the Single European Act (signed on behalf of the Member States
+        of the Communities at Luxembourg on the 17th day of February,
+        1986, and at The Hague on the 28th day of February, 1986). No
+        provision of this Constitution invalidates laws enacted, acts
+        done or measures adopted by the State necessitated by the
+        obligations of membership of the Communities or prevents laws
+        enacted, acts done or measures adopted by the Communities, or
+        institutions thereof, from having the force of law in the State.\
 
 5.  1.  Every international agreement to which the State becomes a party
         shall be laid before Dáil Éireann.\
