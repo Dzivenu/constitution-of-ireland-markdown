@@ -441,11 +441,13 @@ Article 16
         of twenty-one years, and who is not placed under disability or
         incapacity by this Constitution or by law, shall be eligible for
         membership of Dáil Éireann.\
-    2.  Every citizen without distinction of sex who has reached the age
-        of eighteen years who is not disqualified by law and complies
-        with the provisions of the law relating to the election of
-        members of Dáil Éireann, shall have the right to vote at an
-        election for members of Dáil Éireann.\
+    2.  i. All citizens, and\
+        ii. such other persons in the State as may be determined by law,\
+        without distinction of sex who have reached the age of eighteen
+        years who are not disqualified by law and comply with the
+        provisions of the law relating to the election of members of
+        Dáil Éireann, shall have the right to vote at an election for
+        members of Dáil Éireann.\
     3.  No law shall be enacted placing any citizen under disability or
         incapacity for membership of Dáil Éireann on the ground of sex
         or disqualifying any citizen or other person from voting at an
