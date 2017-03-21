@@ -1397,6 +1397,10 @@ Article 40
         may from unjust attack and, in the case of injustice done,
         vindicate the life, person, good name, and property rights of
         every citizen.\
+    3.  The State acknowledges the right to life of the unborn and,
+        with due regard to the equal right to life of the mother,
+        guarantees in its laws to respect, and, as far as practicable,
+        by its laws to defend and vindicate that right.\
 
 4.  1.  No citizen shall be deprived of his personal liberty save in
         accordance with law.\
