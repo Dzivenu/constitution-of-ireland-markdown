@@ -1471,6 +1471,10 @@ Article 40
     6.  Nothing in this section, however, shall be invoked to prohibit,
         control, or interfere with any act of the Defence Forces during
         the existence of a state of war or armed rebellion.\
+    7.  Provision may be made by law for the refusal of bail by a court
+        to a person charged with a serious offence where it is
+        reasonably considered necessary to prevent the commission of a
+        serious offence by that person.\
 
 5.  The dwelling of every citizen is inviolable and shall not be
     forcibly entered save in accordance with law.\
