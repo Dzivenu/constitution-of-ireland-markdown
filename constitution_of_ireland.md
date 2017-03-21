@@ -1115,7 +1115,114 @@ Article 29
         technical and adminstrative character.\
 
 6.  No international agreement shall be part of the domestic law of the
-    State save as may be determined by the Oireachtas.
+    State save as may be determined by the Oireachtas.\
+7.  1.  The State may consent to be bound by the British-Irish Agreement
+        done at Belfast on the 10th day of April, 1998, hereinafter
+        called the Agreement.\
+    2.  Any institution established by or under the Agreement may
+        exercise the powers and functions thereby conferred on it in
+        respect of all or any part of the island of Ireland
+        notwithstanding any other provision of this Constitution
+        conferring a like power or function on any person or any organ
+        of State appointed under or created or established by or under
+        this Constitution. Any power or function conferred on such an
+        institution in relation to the settlement or resolution of
+        disputes or controversies may be in addition to or in
+        substitution for any like power or function conferred by this
+        Constitution on any such person or organ of State as aforesaid.\
+    3.  If the Government declare that the State has become obliged,
+        pursuant to the Agreement, to give effect to the amendment of
+        this Constitution referred to therein, then, notwithstanding
+        Article 46 hereof, this Constitution shall be amended as
+        follows:\
+        i. the following Articles shall be substituted for Articles 2
+        and 3 of the Irish text:\
+        “Airteagal 2.\
+        Tá gach duine a shaolaítear in oileán na hÉireann, ar a
+        n-áirítear a oileáin agus a fharraigí, i dteideal, agus tá de
+        cheart oidhreachta aige nó aici, a bheith páirteach i náisiún
+        na hÉireann. Tá an teideal sin freisin ag na daoine go léir
+        atá cáilithe ar shlí eile de réir dlí chun bheith ina
+        saoránaigh d'Éirinn. Ina theannta sin, is mór ag náisiún na
+        hÉireann a choibhneas speisialta le daoine de bhunadh na
+        hÉireann atá ina gcónaí ar an gcoigríoch agus arb ionann
+        féiniúlacht agus oidhreacht chultúir dóibh agus do náisiún
+        na hÉireann.\
+        Airteagal 3.\
+        1.  Is í toil dhiongbháilte náisiún na hÉireann, go sítheach
+            cairdiúil, na daoine go léir a chomhroinneann críoch
+            oileán na hÉireann i bpáirt lena chéile, in éagsúlacht
+            uile a bhféiniúlachtaí agus a dtraidisiún, a aontú, á
+            aithint gur trí mhodhanna síochánta amháin le toiliú
+            thromlach na ndaoine, á chur in iúl go daonlathach, sa
+            dá dhlínse san oileán, a dhéanfar Éire aontaithe a
+            thabhairt i gcrích. Go dtí sin, bainfidh na dlíthe a
+            achtófar ag an bParlaimint a bhunaítear leis an
+            mBunreacht seo leis an limistéar feidhme céanna, agus
+            beidh an raon feidhme céanna acu, lenar bhain na dlíthe,
+            agus a bhí ag na dlíthe, a d'achtaigh an Pharlaimint a
+            bhí ar marthain díreach roimh theacht i ngníomh don
+            Bhunreacht seo.\
+        2.  Féadfaidh údaráis fhreagracha faoi seach na ndlínsí sin
+            institiúidí ag a mbeidh cumhachtaí agus feidhmeanna
+            feidhmiúcháin a chomhroinntear idir na dlínsí sin a
+            bhunú chun críoch sonraithe agus féadfaidh na
+            hinstitiúidí sin cumhachtaí agus feidhmeanna a fheidhmiú
+            i leith an oileáin ar fad nó i leith aon chuid de.”,\
+
+        ii. the following Articles shall be substituted for Articles
+        2 and 3 of the English text:\
+        “Article 2.\
+        It is the entitlement and birthright of every person born
+        in the island of Ireland, which includes its islands and
+        seas, to be part of the Irish nation. That is also the
+        entitlement of all persons otherwise qualified in accordance
+        with law to be citizens of Ireland. Furthermore, the Irish
+        nation cherishes its special affinity with people of Irish
+        ancestry living abroad who share its cultural identity and
+        heritage.\
+        Article 3.\
+        1.  It is the firm will of the Irish nation, in harmony and
+            friendship, to unite all the people who share the
+            territory of the island of Ireland, in all the diversity
+            of their identities and traditions, recognising that a
+            united Ireland shall be brought about only by peaceful
+            means with the consent of a majority of the people,
+            democratically expressed, in both jurisdictions in the
+            island. Until then, the laws enacted by the Parliament
+            established by this Constitution shall have the like
+            area and extent of application as the laws enacted by
+            the Parliament that existed immediately before the
+            coming into operation of this Constitution.\
+        2.  Institutions with executive powers and functions that
+            are shared between those jurisdictions may be
+            established by their respective responsible authorities
+            for stated purposes and may exercise powers and
+            functions in respect of all or any part of the
+            island.”,\
+        iii. the following section shall be added to the Irish text
+        of this Article:\
+        “8. Tig leis an Stát dlínse a fheidhmiú taobh amuigh dá
+        chríoch de réir bhunrialacha gnáth-admhaithe an dlí
+        idirnáisiúnta.”,\
+        and\
+        iv. the following section shall be added to the English
+        text of this Article:\
+        “8. The State may exercise extra-territorial jurisdiction
+        in accordance with the generally recognised principles of
+        international law.”.\
+    4.  If a declaration under this section is made, this
+        subsection and subsection 3°, other than the amendment of
+        this Constitution effected thereby, and subsection 5°, of
+        this section shall be omitted from every official text of
+        this Constitution published thereafter, but notwithstanding
+        such omission this section shall continue to have the
+        force of law.\
+    5.  If such a declaration is not made within twelve months of
+        this section being added to this Constitution or such
+        longer period as may be provided for by law, this section
+        shall cease to have effect and shall be omitted from every
+        official text of this Constitution published thereafter.\
 
 ### THE ATTORNEY GENERAL
 
