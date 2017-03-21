@@ -1807,6 +1807,8 @@ Article 41
         be capable of contracting a valid marriage within that
         jurisdiction during the lifetime of the other party to the
         marriage so dissolved.
+4.  Marriage may be contracted in accordance with law by two persons
+        without distinction as to their sex.
 
 #### EDUCATION
 
