@@ -143,7 +143,8 @@ Article 12
         the expiration of the term of office of every President, but in
         the event of the removal from office of the President or of his
         death, resignation, or permanent incapacity established as
-        aforesaid, an election for the office of President shall be held
+        aforesaid (whether occurring before or after he enters upon his
+        office), an election for the office of President shall be held
         within sixty days after such event.\
 
 4.  1.  Every citizen who has reached his thirty-fifth year of age is
@@ -303,9 +304,9 @@ Article 14
     resignation, removal from office, or failure to exercise and perform
     the powers and functions of his office or any of them, or at any
     time at which the office of President may be vacant, the powers and
-    functions conferred on the President by this Constitution shall be
-    exercised and performed by a Commission constituted as provided in
-    section 2 of this Article.\
+    functions conferred on the President by or under this Constitution
+    shall be exercised and performed by a Commission constituted as
+    provided in section 2 of this Article.\
 2.  1.  The Commission shall consist of the following persons, namely,
         the Chief Justice, the Chairman of Dáil Éireann (An Ceann
         Comhairle), and the Chairman of Seanad Éireann.\
@@ -326,12 +327,12 @@ Article 14
     notwithstanding a vacancy in their membership.\
 4.  The Council of State may by a majority of its members make such
     provision as to them may seem meet for the exercise and performance
-    of the powers and functions conferred on the President by this
-    Constitution in any contingency which is not provided for by the
-    foregoing provisions of this Article.\
+    of the powers and functions conferred on the President by or under
+    this Constitution in any contingency which is not provided for by
+    the foregoing provisions of this Article.\
 5.  1.  The provisions of this Constitution which relate to the exercise
         and performance by the President of the powers and functions
-        conferred on him by this Constitution shall subject to the
+        conferred on him by or under this Constitution shall subject to the
         subsequent provisions of this section apply to the exercise and
         performance of the said powers and functions under this
         Article.\
@@ -520,8 +521,10 @@ Article 18
     shall be nominated members and forty-nine shall be elected members.\
 2.  A person to be eligible for membership of Seanad Éireann must be
     eligible to become a member of Dáil Éireann.\
-3.  The nominated members of Seanad Éireann shall be nominated by the
-    Taoiseach with their prior consent.\
+3.  The nominated members of Seanad Éireann shall be nominated, with
+    their prior consent, by the Taoiseach who is appointed next after
+    the re-assembly of Dáil Eireann following the dissolution thereof
+    which occasions the nomination of the said members.\
 4.  The elected members of Seanad Éireann shall be elected as follows:—\
      i Three shall be elected by the National University of Ireland.\
      ii Three shall be elected by the University of Dublin.\
@@ -700,14 +703,19 @@ Article 24
     so resolves and if the President, after consultation with the
     Council of State, concurs, be abridged to such period as shall be
     specified in the resolution.\
-2.  Where a Bill the time for the consideration of which by Seanad
-    Éireann has been abridged under this Article is within the period
-    specified in the resolution either rejected by Seanad Éireann or
-    passed by Seanad Éireann with amendments or recommendations to which
-    Dáil Éireann does not agree or is neither passed (with or without
-    amendments or recommendations) nor rejected by Seanad Éireann within
-    the period so specified the Bill shall be deemed to have been passed
-    by both Houses of the Oireachtas at the expiration of that period.\
+2.  Where a Bill, the time for the consideration of which by Seanad
+    Eireann has been abridged under this Article,\
+    (a)  is, in the case of a Bill which is not a Money Bill, rejected
+    by Seanad Eireann or passed by Seanad Eireann with amendments to
+    which Dáil Eireann does not agree or neither passed nor rejected
+    by Seanad Eireann, or/
+    (b)  is, in the case of a Money Bill, either returned by Seanad
+    Eireann to Dáil Eireann with recommendations which Dáil Eireann
+    does not accept or is not returned by Seanad Eireann to Dáil
+    Eireann,/
+    within the period specified in the resolution, the Bill shall be
+    deemed to have been passed by both Houses of the Oireachtas at
+    the expiration of that period./
 3.  When a Bill the time for the consideration of which by Seanad
     Éireann has been abridged under this Article becomes law it shall
     remain in force for a period of ninety days from the date of its
@@ -729,36 +737,64 @@ Article 25
 2.  1.  Save as otherwise provided by this Constitution, every Bill so
         presented to the President for his signature and for
         promulgation by him as a law shall be signed by the President
-        not earlier than five and not later than seven days after the
-        date on which the Bill shall have been presented to him.\
+        not earlier than the fifth and not later than the seventh day
+        after the date on which the Bill shall have been presented to
+        him.\
     2.  At the request of the Government, with the prior concurrence of
         Seanad Éireann, the President may sign any Bill the subject of
-        such request on a date which is earlier than five days after
-        such date as aforesaid.\
+        such request on a date which is earlier than the fifth days
+        after such date as aforesaid.\
 
 3.  Every Bill the time for the consideration of which by Seanad Éireann
     shall have been abridged under Article 24 of this Constitution shall
     be signed by the President on the day on which such Bill is
     presented to him for signature and promulgation as a law.\
-4.  1.  Every Bill signed by the President under this Constitution shall
-        become and be law as on and from the day on which the Bill shall
-        have been so signed.\
-    2.  Every Bill signed by the President shall come into operation on
-        the day on which it is so signed unless the contrary intention
-        appears.\
-    3.  Every Bill so signed shall be promulgated by the President as a
-        law by the publication by his direction of a notice in the Iris
-        Oifigiúil stating that such Bill has become law.\
-    4.  As soon as may be after the President has signed any Bill and
-        promulgated it as a law, the signed text shall be enrolled for
-        record in the office of the Registrar of the Supreme Court and
-        such signed text shall be conclusive evidence as to the
-        provisions of such law.\
-    5.  An official translation of every law enacted by the Oireachtas
-        in the Irish language shall be issued in the English language
-        and an official translation of every law enacted by the
-        Oireachtas in the English language shall be issued in the Irish
-        language.
+4.  1.  Every Bill shall become and be law as on and from the day on
+        which it is signed by the President under this Constitution, and
+        shall, unless the contrary intention appears, come into
+        operation on that day.\
+    2.  Every Bill signed by the President under this Constitution shall
+        be promulgated by him as a law by the publication by his
+        direction of a notice in the _Iris Oifigiúil_ stating that the
+        Bill has become law.\
+    3.  Every Bill shall be signed by the President in the text in which
+        it was passed or deemed to have been passed by both Houses of
+        the Oireachtas, and if a Bill is so passed or deemed to have
+        been passed in both the official languages, the President shall
+        sign the text of the Bill in each of those languages.\
+    4.  Where the President signs the text of a Bill in one only of the
+        official languages, an official translation shall be issued in
+        the other official language.\
+    5.  As soon as may be after the signature and promulgation of a
+        Bill as a law, the text of such law which was signed by the
+        President or, where the President has signed the text of such
+        law in each of the official languages, both the signed texts
+        shall be enrolled for record in the office of the Registrar
+        of the Supreme Court, and the text, or both the texts, so
+        enrolled shall be conclusive evidence of the provisions of such
+        law.\
+    6.  In case of conflict between the texts of a law enrolled under
+        this section in both the official languages, the text in the
+        national language shall prevail.\
+
+5.  1.  It shall be lawful for the Taoiseach, from time to time as
+        occasion appears to him to require, to cause to be prepared
+        under his supervision a text (in both the official languages)
+        of this Constitution as then in force embodying all amendments
+        theretofore made therein.\
+    2.  A copy of every text so prepared, when authenticated by the
+        signatures of the Taoiseach and the Chief Justice, shall be
+        signed by the President and shall be enrolled for record in
+        the office of the Registrar of the Supreme Court.\
+    3.  The copy so signed and enrolled which is for the time being
+        the latest text so prepared shall, upon such enrolment, being
+        conclusive evidence of this Constitution as at the date of
+        such enrolment and shall for that purpose supersede all texts
+        of this Constitution of which copies were previously so
+        enrolled.\
+    4.  In case of conflict between the texts of any copy of this
+        Constitution enrolled under this section, the text in the
+        national language shall prevail.\
 
 ‘Reference of Bills to the Supreme Court’
 
@@ -775,9 +811,9 @@ shall have been abridged under Article 24 of this Constitution.
         Court for a decision on the question as to whether such Bill or
         any specified provision or provisions of such Bill is or are
         repugnant to this Constitution or to any provision thereof.\
-    2.  Every such reference shall be made not later than four days
-        after the date on which such Bill shall have been passed or
-        deemed to have been passed by both Houses of the Oireachtas.\
+    2.  Every such reference shall be made not later than the seventh
+        day after the date on which such Bill shall have been presented
+        by the Taoiseach to the President for his signature.\
     3.  The President shall not sign any Bill the subject of a reference
         to the Supreme Court under this Article pending the
         pronouncement of the decision of the Court.\
@@ -791,14 +827,21 @@ shall have been abridged under Article 24 of this Constitution.
         days after the date of such reference.\
     2.  The decision of the majority of the judges of the Supreme Court
         shall, for the purposes of this Article, be the decision of the
-        Court.\
+        Court and shall be pronounced by such one of those judges as
+        the Court shall direct, and no other opinion, whether assenting
+        or dissenting, shall be pronounced nor shall the existence of
+        any such other opinion be disclosed.\
 
 3.  1.  In every case in which the Supreme Court decides that any
         provision of a Bill the subject of a reference to the Supreme
         Court under this Article is repugnant to this Constitution or to
         any provision thereof, the President shall decline to sign such
         Bill.\
-    2.  In every other case the President shall sign the Bill as soon as
+    2.  If, in the case of a Bill to which Article 27 of this
+        Constitution applies, a petition has been addressed to the
+        President under that Article, that Article shall be complied
+        with.\
+    3.  In every other case the President shall sign the Bill as soon as
         may be after the date on which the decision of the Supreme Court
         shall have been pronounced.
 
@@ -818,18 +861,33 @@ passed by both Houses of the Oireachtas.
     which this article applies on the ground that the Bill contains a
     proposal of such national importance that the will of the people
     thereon ought to be ascertained.\
-2.  Every such petition shall be in writing signed by the petitioners,
-    shall contain a statement of the particular ground or grounds on
-    which the request is based, and shall be presented to the President
-    not later than four days after the date on which the Bill shall have
-    been deemed to have been passed by both Houses of the Oireachtas.\
-3.  Upon receipt of a petition addressed to him under this Article, the
-    President shall forthwith consider such petition and shall, after
-    consultation with the Council of State, pronounce his decision
-    thereon not later than ten days after the date on which the Bill to
-    which such petition relates shall have been deemed to have been
-    passed by both Houses of the Oireachtas.\
-4.  1.  In every case in which the President decides that a Bill the
+2.  Every such petition shall be in writing and shall be signed by the
+    petitioners whose signatures shall be verified in the manner
+    prescribed by law.\
+3.  Every such petition shall contain a statement of the particular
+    ground or grounds on which the request is based, and shall be
+    presented to the President not later than four days after the date
+    on which the Bill shall have been deemed to have been passed by both
+    Houses of the Oireachtas.\
+4.  1.  Upon receipt of a petition addressed to him under this Article,
+        the President shall forthwith consider such petition and shall,
+        after consultation with the Council of State, pronounce his
+        decision thereon not later than ten days after the date on which
+        the Bill to which such petition relates shall have been deemed
+        to have been passed by both Houses of the Oireachtas.\
+    2.  If the Bill or any provision thereof is or has been referred to
+        the Supreme Court under Article 26 of this Constitution, it shall
+        not be obligatory on the President to consider the petition
+        unless or until the Supreme Court has pronounced a decision on
+        such reference to the effect that the said Bill or the said
+        provision thereof is not repugnant to this Constitution or to
+        any provision thereof, and, if a decision to that effect is
+        pronounced by the Supreme Court, it shall not be obligatory on
+        the President to pronounce his decision on the petition before
+        the expiration of six days after the day on which the decision
+        of the Supreme Court to the effect aforesaid is pronounced.\
+
+5.  1.  In every case in which the President decides that a Bill the
         subject of a petition under this Article contains a proposal of
         such national importance that the will of the people thereon
         ought to be ascertained, he shall inform the Taoiseach and the
@@ -843,14 +901,16 @@ passed by both Houses of the Oireachtas.
         President’s decision, or\
          ii by a resolution of Dáil Éireann passed within the said
         period after a dissolution and re-assembly of Dáil Éireann.\
-    2.  Every such Bill which shall have been approved either by the
-        people or by a resolution of Dáil Éireann in accordance with the
-        foregoing provisions of this section shall as soon as may be
-        after such approval be presented to the President for his
-        signature and promulgation by him as a law and the President
-        shall thereupon sign the Bill and duly promulgate it as a law.\
+    2.  Whenever a proposal contained in a Bill the subject of a
+        petition under this Article shall have been approved either by
+        the people or by a resolution of Dáil Éireann in accordance with
+        the foregoing provisions of this section, such Bill shall as
+        soon as may be after such approval be presented to the President
+        for his signature and promulgation by him as a law and the
+        President shall thereupon sign the Bill and duly promulgate it
+        as a law.\
 
-5.  In every case in which the President decides that a Bill the subject
+6.  In every case in which the President decides that a Bill the subject
     of a petition under this Article does not contain a proposal of such
     national importance that the will of the people thereon ought to be
     ascertained, he shall inform the Taoiseach and the Chairman of each
@@ -880,13 +940,19 @@ Article 28
         law enacted by the Oireachtas which is expressed to be for the
         purpose of securing the public safety and the preservation of
         the State in time of war or armed rebellion, or to nullify any
-        act done or purporting to be done in pursuance of any such law.
-        In this sub-section ‘time of war’ includes a time when there is
-        taking place an armed conflict in which the State is not a
-        participant but in respect of which each of the Houses of the
-        Oireachtas shall have resolved that, arising out of such armed
-        conflict, a national emergency exists affecting the vital
-        interests of the State.\
+        act done or purporting to be done in time of war or armed
+        rebellion in pursuance of any such law. In this sub-section
+        ‘time of war’ includes a time when there is taking place an
+        armed conflict in which the State is not a participant but in
+        respect of which each of the Houses of the Oireachtas shall have
+        resolved that, arising out of such armed conflict, a national
+        emergency exists affecting the vital interests of the State and
+        ‘time of war or armed rebellion’ includes such time after the
+        termination of any war, or of any such armed conflict as
+        aforesaid, or of an armed rebellion, as may elapse until each of
+        the Houses of the Oireachtas shall have resolved that the
+        national emergency occasioned by such war, armed conflict, or
+        armed rebellion has ceased to exist.\
 
 4.  1.  The Government shall be responsible to Dáil Éireann.\
     2.  The Government shall meet and act as a collective authority, and
@@ -1113,20 +1179,31 @@ Article 33
 
 Article 34
 
-1.  Justice shall be administered in public courts established by law by
-    judges appointed in the manner provided by this Constitution.\
+1.  Justice shall be administered in courts established by law by judges
+    appointed in the manner provided by this Constitution, and, save in
+    such special and limited cases as may be prescribed by law, shall be
+    administered in public.\
 2.  The Courts shall comprise Courts of First Instance and a Court of
     Final Appeal.\
 3.  1.  The Courts of First Instance shall include a High Court invested
         with full original jurisdiction in and power to determine all
         matters and questions whether of law or fact, civil or
         criminal.\
-    2.  The jurisdiction of the High Court shall extend to the question
-        of the validity of any law having regard to the provisions of
-        this Constitution, and in all cases in which any such matter
-        shall come into question the High Court alone shall exercise
-        original jurisdiction.\
-    3.  The Courts of First Instance shall also include Courts of local
+    2.  Save as otherwise provided by this Article, the jurisdiction of
+        the High Court shall extend to the question of the validity of
+        any law having regard to the provisions of this Constitution,
+        and no such question shall be raised (whether by pleading,
+        argument or otherwise) in any Court established under this or
+        any other Article of this Constitution other than the High Court
+        or the Supreme Court.\
+    3.  No Court whatever shall have jurisdiction to question the
+        validity of a law, or any provision of a law, the Bill for which
+        shall have been referred to the Supreme Court by the President
+        under Article 26 of this Constitution, or to question the
+        validity of a provision of a law where the corresponding
+        provision in the Bill for such law shall have been referred to
+        the Supreme Court by the President under the said Article 26.\
+    4.  The Courts of First Instance shall also include Courts of local
         and limited jurisdiction with a right of appeal as determined by
         law.\
 
@@ -1142,7 +1219,14 @@ Article 34
         jurisdiction of the Supreme Court cases which involve questions
         as to the validity of any law having regard to the provisions of
         this Constitution.\
-    5.  The decision of the Supreme Court shall in all cases be final
+    5.  The decision of the Supreme Court on a question as to the
+        validity of a law having regard to the provisions of this
+        Constitution shall be pronounced by such one of the judges of
+        that Court as that Court shall direct, and no other opinion on
+        such question, whether assenting or dissenting, shall be
+        pronounced, nor shall the existence of any such other opinion
+        be disclosed.\
+    6.  The decision of the Supreme Court shall in all cases be final
         and conclusive.\
 
 5.  1.  Every person appointed a judge under this Constitution shall
@@ -1281,16 +1365,51 @@ Article 40
 
 4.  1.  No citizen shall be deprived of his personal liberty save in
         accordance with law.\
-    2.  Upon complaint being made by or on behalf of any person that he
-        is being unlawfully detained, the High Court and any and every
-        judge thereof shall forthwith enquire into the same and may make
-        an order requiring the person in whose custody such person shall
-        be detained to produce the body of the person so detained before
-        such court or judge without delay and to certify in writing as
-        to the cause of the detention, and such Court or judge shall
-        thereupon order the release of such person unless satisfied that
-        he is being detained in accordance with the law.\
-    3.  Nothing in this section, however, shall be invoked to prohibit,
+    2.  Upon complaint being made by or on behalf of any person to the
+        High Court or any judge thereof alleging that such person is
+        being unlawfully detained, the High Court and any and every
+        judge thereof to whom such complaint is made shall forthwith
+        enquire into the said complaint and may order the person in
+        whose custody such person is detained to produce the body of
+        such person before the High Court on a named day and to certify
+        in writing the grounds of his detention, and the High Court
+        shall, upon the body of such person being produced before that
+        Court and after giving the person in whose custody he is
+        detained an opportunity of justifying the detention, order the
+        release of such person from such detention unless satisfied
+        that he is being detained in accordance with the law.\
+    3.  Where the body of a person alleged to be unlawfully detained is
+        produced before the High Court in pursuance of an order in that
+        behalf made under this section and that Court is satisfied that
+        such person is being detained in accordance with a law but that
+        such law is invalid having regard to the provisions of this
+        Constitution, the High Court shall refer the question of the
+        validity of such law to the Supreme Court by way of case stated
+        and may, at the time of such reference or at any time
+        thereafter, allow the said person to be at liberty on such bail
+        and subject to such conditions as the High Court shall fix
+        until the Supreme Court has determined the question so referred
+        to it.\
+    4.  The High Court before which the body of a person alleged to be
+        unlawfully detained is to be produced in pursuance of an order
+        in that behalf made under this section shall, if the President
+        of the High Court or, if he is not available, the senior judge
+        of that Court who is available so directs in respect of any
+        particular case, consist of three judges and shall, in every
+        other case, consist of one judge only.\
+    5.  Where an order is made under this section by the High Court or
+        a judge thereof for the production of the body of a person who
+        is under sentence of death, the High Court or such judge thereof
+        shall further order that the execution of the said sentence of
+        death shall be deferredl untill after the body of such person
+        has been produced before the High Court and the lawfulness of
+        his detention has been determined and if, after such deferment,
+        the detention of such person is determined to be lawful, the
+        High Court shall appoint a day for the execution of the said
+        sentence of death and that sentence shall have effect with the
+        substitution of the day so appointed for the day originally
+        fixed for the execution thereof.\
+    6.  Nothing in this section, however, shall be invoked to prohibit,
         control, or interfere with any act of the Defence Forces during
         the existence of a state of war or armed rebellion.\
 
@@ -1528,20 +1647,19 @@ Article 47
     approved by the people, if, upon having been so submitted, a
     majority of the votes cast at such Referendum shall have been cast
     in favour of its enactment into law.\
-2.  1.  Every Bill and every proposal, other than a proposal to amend
-        the Constitution, which is submitted by Referendum to the
-        decision of the people shall be held to have been vetoed by the
-        people if a majority of the votes cast at such Referendum shall
-        have been cast against its enactment into law and if the votes
-        so cast against its enactment into law shall have amounted to
-        not less than thirty-three and one-third per cent. of the voters
-        on the register.\
-    2.  Every Bill and every proposal, other than a proposal to amend
-        the Constitution, which is submitted by Referendum to the
-        decision of the people shall for the purposes of Article 27
-        hereof be held to have been approved by the people unless vetoed
-        by them in accordance with the provisions of the foregoing
-        sub-section of this section.\
+2.  1.  Every proposal, other than a proposal to amend the Constitution,
+        which is submitted by Referendum to the decision of the people
+        shall be held to have been vetoed by the people if a majority of
+        the votes cast at such Referendum shall have been cast against
+        its enactment into law and if the votes so cast against its
+        enactment into law shall have amounted to not less than
+        thirty-three and one-third per cent. of the voters on the
+        register.\
+    2.  Every proposal, other than a proposal to amend the Constitution,
+        which is submitted by Referendum to the decision of the people
+        shall for the purposes of Article 27 hereof be held to have been
+        approved by the people unless vetoed by them in accordance with
+        the provisions of the foregoing sub-section of this section.\
 
 3.  Every citizen who has the right to vote at an election for members
     of Dáil Éireann shall have the right to vote at a Referendum.\
