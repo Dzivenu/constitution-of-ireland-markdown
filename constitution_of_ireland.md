@@ -975,7 +975,18 @@ Article 28
     2.  The Government shall meet and act as a collective authority, and
         shall be collectively responsible for the Departments of State
         administered by the members of the Government.\
-    3.  The Government shall prepare Estimates of the Receipts and
+    3.  The confidentiality of discussions at meetings of the Government
+        shall be respected in all circumstances save only where the High
+        Court determines that disclosure should be made in respect of a
+        particular matter—\
+        i. in the interests of the administration of justice by a Court,
+        or\
+        ii. by virtue of an overriding public interest, pursuant to an
+        application in that behalf by a tribunal appointed by the
+        Government or a Minister of the Government on the authority of
+        the Houses of the Oireachtas to inquire into a matter stated by
+        them to be of public importance.\
+    4.  The Government shall prepare Estimates of the Receipts and
         Estimates of the Expenditure of the State for each financial
         year, and shall present them to Dáil Éireann for consideration.\
 
