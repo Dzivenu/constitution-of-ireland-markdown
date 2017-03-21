@@ -1706,30 +1706,6 @@ Article 50
     enacted by the Oireachtas, come into force in accordance with the
     terms thereof.
 
-### TRANSITORY PROVISIONS
-
-Article 51
-
-1.  Notwithstanding anything contained in Article 46 hereof, any of the
-    provisions of this Constitution, except the provisions of the said
-    Article 46 and this Article, may, subject as hereinafter provided,
-    be amended by the Oireachtas, whether by way of variation, addition
-    or repeal, within a period of three years after the date on which
-    the first President shall have entered upon the office.\
-2.  A proposal for the amendment of this Constitution under this Article
-    shall not be enacted into law if, prior to such enactment, the
-    President, after consultation with the Council of State, shall have
-    signified in a message under his hand and Seal addressed to the
-    Chairman of each of the Houses of the Oireachtas that the proposal
-    is in his opinion a proposal to effect an amendment of such a
-    character and importance that the will of the people thereon ought
-    to be ascertained by Referendum before its enactment into law.\
-3.  The foregoing provisions of this Article shall cease to have the
-    force of law immediately upon the expiration of the period of three
-    years referred to in section 1 hereof.\
-4.  This Article shall be omitted from every official text of this
-    Constitution published after the expiration of the said period.
-
 ‘Dochum Glóire Dé\
  agus\
  Onóra na hÉireann’
