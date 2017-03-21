@@ -1179,6 +1179,14 @@ Article 29
         Council to establish a common defence pursuant to Article 42
         of the Treaty on European Union where that common defence
         would include the State.\
+    10. The State may ratify the Treaty on Stability, Coordination
+        and Governance in the Economic and Monetary Union done at
+        Brussels on the 2nd day of March 2012. No provision of this
+        Constitution invalidates laws enacted, acts done or measures
+        adopted by the State that are necessitated by the obligations
+        of the State under that Treaty or prevents laws enacted, acts
+        done or measures adopted by bodies competent under that
+        Treaty from having the force of law in the State.\
 
 5.  1.  Every international agreement to which the State becomes a party
         shall be laid before Dáil Éireann.\
