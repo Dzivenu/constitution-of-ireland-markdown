@@ -204,8 +204,9 @@ Article 12
     soon as may be after the election.\
 8.  The President shall enter upon his office by taking and subscribing
     publicly, in the presence of members of both Houses of the
-    Oireachtas, of Judges of the Supreme Court and of the High Court,
-    and other public personages, the following declaration:\
+    Oireachtas, of Judges of the Supreme Court, of the Court of Appeal
+    and of the High Court, and other public personages, the following
+    declaration:\
      “In the presence of Almighty God I ,do solemnly and sincerely
     promise and declare that I will maintain the Constitution of Ireland
     and uphold its laws, that I will fulfil my duties faithfully and
@@ -331,7 +332,7 @@ Article 14
 2.  1.  The Commission shall consist of the following persons, namely,
         the Chief Justice, the Chairman of Dáil Éireann (An Ceann
         Comhairle), and the Chairman of Seanad Éireann.\
-    2.  The President of the High Court shall act as a member of the
+    2.  President of the Court of Appeal shall act as a member of the
         Commission in the place of the Chief Justice on any occasion on
         which the office of Chief Justice is vacant or on which the
         Chief Justice is unable to act.\
@@ -1357,12 +1358,13 @@ Article 31
     said Council by this Constitution.\
 2.  The Council of State shall consist of the following members:
     i. As ex-officio members: the Taoiseach, the Tánaiste, the Chief
-    Justice, the President of the High Court, the Chairman of Dáil
-    Éireann, the Chairman of Seanad Éireann, and the Attorney General.
+    Justice, the President of the Court of Appeal, the President of the
+    High Court, the Chairman of Dáil Éireann, the Chairman of Seanad
+    Éireann, and the Attorney General.\
     ii. Every person able and willing to act as a member of the Council
     of State who shall have held the office of President, or the office
     of Taoiseach, or the office of Chief Justice, or the office of
-    President of the Executive Council of Saorstát Éireann.
+    President of the Executive Council of Saorstát Éireann.\
     iii. Such other persons, if any, as may be appointed by the
     President under this Article to be members of the Council of State.\
 3.  The President may at any time and from time to time by warrant under
@@ -1438,8 +1440,10 @@ Article 34
     appointed in the manner provided by this Constitution, and, save in
     such special and limited cases as may be prescribed by law, shall be
     administered in public.\
-2.  The Courts shall comprise Courts of First Instance and a Court of
-    Final Appeal.\
+2.  The Courts shall comprise:\
+    i Courts of First Instance;\
+    ii a Court of Appeal; and\
+    iii a Court of Final Appeal.\
 3.  1.  The Courts of First Instance shall include a High Court invested
         with full original jurisdiction in and power to determine all
         matters and questions whether of law or fact, civil or
@@ -1449,8 +1453,8 @@ Article 34
         any law having regard to the provisions of this Constitution,
         and no such question shall be raised (whether by pleading,
         argument or otherwise) in any Court established under this or
-        any other Article of this Constitution other than the High Court
-        or the Supreme Court.\
+        any other Article of this Constitution other than the High Court,
+        the Court of Appeal or the Supreme Court.\
     3.  No Court whatever shall have jurisdiction to question the
         validity of a law, or any provision of a law, the Bill for which
         shall have been referred to the Supreme Court by the President
@@ -1462,29 +1466,49 @@ Article 34
         and limited jurisdiction with a right of appeal as determined by
         law.\
 
-4.  1.  The Court of Final Appeal shall be called the Supreme Court.\
+4.  1.  The Court of Appeal shall—\
+        i save as otherwise provided by this Article, and\
+        ii with such exceptions and subject to such regulations as may
+        be prescribed by law,\
+        have appellate jurisdiction from all decisions of the High
+        Court, and shall also have appellate jurisdiction from such
+        decisions of other courts as may be prescribed by law.\
+    2.  No law shall be enacted excepting from the appellate
+        jurisdiction of the Court of Appeal cases which involve
+        questions as to the validity of any law having regard to the
+        provisions of this Constitution.\
+    3.  The decision of the Court of Appeal shall be final and
+        conclusive, save as otherwise provided by this Article.\
+
+5.  1.  The Court of Final Appeal shall be called the Supreme Court.\
     2.  The president of the Supreme Court shall be called the Chief
         Justice.\
-    3.  The Supreme Court shall, with such exceptions and subject to
-        such regulations as may be prescribed by law, have appellate
-        jurisdiction from all decisions of the High Court, and shall
-        also have appellate jurisdiction from such decisions of other
-        courts as may be prescribed by law.\
-    4.  No law shall be enacted excepting from the appellate
+    3.  The Supreme Court shall, subject to such regulations as may
+        be prescribed by law, have appellate jurisdiction from a
+        decision of the Court of Appeal if the Supreme Court is
+        satisfied that—\
+        i the decision involves a matter of general public
+        importance, or\
+        ii in the interests of justice it is necessary that there
+        be an appeal to the Supreme Court.\
+    4.  Notwithstanding section 4.1° hereof, the Supreme Court
+        shall, subject to such regulations as may be prescribed by
+        law, have appellate jurisdiction from a decision of the
+        High Court if the Supreme Court is satisfied that there are
+        exceptional circumstances warranting a direct appeal to it,
+        and a precondition for the Supreme Court being so satisfied
+        is the presence of either or both of the following factors:\
+        i the decision involves a matter of general public
+        importance;\
+        ii the interests of justice.\
+    5.  No law shall be enacted excepting from the appellate
         jurisdiction of the Supreme Court cases which involve questions
         as to the validity of any law having regard to the provisions of
         this Constitution.\
-    5.  The decision of the Supreme Court on a question as to the
-        validity of a law having regard to the provisions of this
-        Constitution shall be pronounced by such one of the judges of
-        that Court as that Court shall direct, and no other opinion on
-        such question, whether assenting or dissenting, shall be
-        pronounced, nor shall the existence of any such other opinion
-        be disclosed.\
     6.  The decision of the Supreme Court shall in all cases be final
         and conclusive.\
 
-5.  1.  Every person appointed a judge under this Constitution shall
+6.  1.  Every person appointed a judge under this Constitution shall
         make and subscribe the following declaration:\
          “In the presence of Almighty God I, , do solemnly and sincerely
         promise and declare that I will duly and faithfully and to the
@@ -1494,10 +1518,10 @@ Article 34
         the Constitution and the laws. May God direct and sustain me.”\
     2.  This declaration shall be made and subscribed by the Chief
         Justice in the presence of the President, and by each of the
-        other judges of the Supreme Court, the judges of the High Court
-        and the judges of every other Court in the presence of the Chief
-        Justice or the senior available judge of the Supreme Court in
-        open court.\
+        other judges of the Supreme Court, the judges of the Court of
+        Appeal, the judges of the High Court and the judges of every
+        other Court in the presence of the Chief Justice or the senior
+        available judge of the Supreme Court in open court.\
     3.  The declaration shall be made and subscribed by every judge
         before entering upon his duties as such judge, and in any case
         not later than ten days after the date of his appointment or
@@ -1505,19 +1529,38 @@ Article 34
     4.  Any judge who declines or neglects to make such declaration as
         aforesaid shall be deemed to have vacated his office.
 
+Establishment of Court of Appeal\
+
+Article 34A\
+
+1.  The Court of Appeal referred to in paragraph ii of Article 34.2
+    hereof (“the Court of Appeal”) shall be established in accordance
+    with this Article.\
+2.  As soon as practicable after the enactment of this Article, a law
+    providing for the establishment of the Court of Appeal shall be
+    enacted.\
+3.  That law shall require the Government to appoint by order a day
+    (“the establishment day”) on which the Court of Appeal shall be
+    established by virtue of that law; an order of the Government as
+    aforesaid shall operate to have that effect accordingly.\
+4.  This Article shall be omitted from every official text of this
+    Constitution published after the establishment day.
+
+
 Article 35
 
-1.  The judges of the Supreme Court, the High Court and all other Courts
-    established in pursuance of Article 34 hereof shall be appointed by
-    the President.\
+1.  The judges of the Supreme Court, the Court of Appeal, the High
+    Court and all other Courts established in pursuance of Article
+    34 hereof shall be appointed by the President.\
 2.  All judges shall be independent in the exercise of their judicial
     functions and subject only to this Constitution and the law.\
 3.  No judge shall be eligible to be a member of either House of the
     Oireachtas or to hold any other office or position of emolument.\
-4.  1.  A judge of the Supreme Court or the High Court shall not be
-        removed from office except for stated misbehaviour or
-        incapacity, and then only upon resolutions passed by Dáil
-        Éireann and by Seanad Éireann calling for his removal.\
+4.  1.  A judge of the Supreme Court, the Court of Appeal, or the
+        High Court shall not be removed from office except for stated
+        misbehaviour or incapacity, and then only upon resolutions
+        passed by Dáil Éireann and by Seanad Éireann calling for his
+        removal.\
     2.  The Taoiseach shall duly notify the President of any such
         resolutions passed by Dáil Éireann and by Seanad Éireann, and
         shall send him a copy of every such resolution certified by the
@@ -1546,8 +1589,9 @@ Article 36
 Subject to the foregoing provisions of this Constitution relating to the
 Courts, the following matters shall be regulated in accordance with law,
 that is to say:\
- i. the number of judges of the Supreme Court, and of the High Court,
-the remuneration, age of retirement and pensions of such judges,\
+ i. the number of judges of the Supreme Court, of the Court of Appeal,
+and of the High Court, the remuneration, age of retirement and pensions
+of such judges,\
  ii. the number of the judges of all other Courts, and their terms of
 appointment, and\
  iii. the constitution and organization of the said Courts, the
@@ -1668,11 +1712,11 @@ Article 40
         such person is being detained in accordance with a law but that
         such law is invalid having regard to the provisions of this
         Constitution, the High Court shall refer the question of the
-        validity of such law to the Supreme Court by way of case stated
+        validity of such law to the Court of Appeal by way of case stated
         and may, at the time of such reference or at any time
         thereafter, allow the said person to be at liberty on such bail
         and subject to such conditions as the High Court shall fix
-        until the Supreme Court has determined the question so referred
+        until the Court of Appeal has determined the question so referred
         to it.\
     4.  The High Court before which the body of a person alleged to be
         unlawfully detained is to be produced in pursuance of an order
