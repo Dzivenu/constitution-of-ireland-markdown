@@ -1417,6 +1417,10 @@ Article 40
         by its laws to defend and vindicate that right.\
         This subsection shall not limit freedom to travel between the
         State and another state.\
+        This subsection shall not limit freedom to obtain or make
+        available, in the State, subject to such conditions as may be
+        laid down by law, information relating to services lawfully
+        available in another state.\
 
 4.  1.  No citizen shall be deprived of his personal liberty save in
         accordance with law.\
