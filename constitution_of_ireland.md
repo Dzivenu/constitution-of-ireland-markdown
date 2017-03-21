@@ -1264,7 +1264,9 @@ Article 29
         official text of this Constitution published thereafter.~~\
 8.  The State may exercise extra-territorial jurisdiction in
     accordance with the generally recognised principles of
-    international law.
+    international law.\
+9.  The State may ratify the Rome Statute of the International
+    Criminal Court done at Rome on the 17th day of July, 1998.
 
 ### THE ATTORNEY GENERAL
 
